@@ -1,2 +1,14 @@
-# gnu-crustils
-Rewriting some of the GNU core utils using Rust for fun
+# The (not-really GNU) GNU C-rust-tils
+
+## Description
+
+I'm just rewriting some of the [GNU coreutils](https://www.gnu.org/software/coreutils/coreutils.html#source) using Rust for fun.
+
+Completed tools:
+- basename
+
+## Building
+
+Build with `cargo build --release`
+
+Run any of them with `cargo run --release --bin <name> -- <args>...`
