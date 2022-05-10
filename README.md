@@ -6,6 +6,8 @@ I'm just rewriting some of the [GNU coreutils](https://www.gnu.org/software/core
 
 Completed tools:
 - basename
+- sleep
+- whoami
 
 ## Building
 
