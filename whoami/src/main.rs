@@ -1,5 +1,5 @@
 /*
- * Author: Dylan Turner (original whoami author: Ruchard Mlynarik)
+ * Author: Dylan Turner (original whoami author: Richard Mlynarik)
  * Description:
  * - Recreation of gnu whoami
  * - That means it shows the current user name
