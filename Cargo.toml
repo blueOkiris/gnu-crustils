@@ -1,2 +1,2 @@
 [workspace]
-members = [ "basename", "sleep", "whoami"]
+members = [ "basename", "sleep", "whoami", "yes" ]
