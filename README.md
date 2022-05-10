@@ -8,6 +8,7 @@ Completed tools:
 - basename
 - sleep
 - whoami
+- yes
 
 ## Building
 
