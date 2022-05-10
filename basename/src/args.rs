@@ -21,7 +21,7 @@ impl BasenameInputs {
             .version(crate_version!())
             .author("Dylan Turner <dylantdmt@gmail.com>")
             .long_about(
-                "Print dach name with any leading directory components removed\n\
+                "Print names with any leading directory components removed\n\
                 If specified, also remove a trailing SUFFIX\n\
                 \n\
                 Mandatory arguments to long options are mandatory for short options too"
