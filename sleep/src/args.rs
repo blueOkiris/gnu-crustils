@@ -1,6 +1,6 @@
 /*
  * Author: Dylan Turner
- * Description: Handle argument stuff for basename recreation
+ * Description: Handle argument stuff for sleep recreation
  */
 
 use std::time::Duration;
